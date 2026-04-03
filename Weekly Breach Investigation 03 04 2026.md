@@ -29,19 +29,19 @@ Attackers achieved **persistent access to systems**, enabling ongoing surveillan
 <aside>
 ⌛
 
-- **2025-06-01**  — Initial access achieved via **USB-based malware delivery (HIUPAN)** used to drop **PUBLOAD/Claimloader**.
+- **2025-06-01**  Initial access achieved via **USB-based malware delivery (HIUPAN)** used to drop **PUBLOAD/Claimloader**.
 </aside>
 
 <aside>
 ⌛
 
-- **2025-06 to 2025-08** — Attacker performed **backdoor deployment, persistence, and collection activity** using tools such as **COOLCLIENT, EggStremeFuel, EggStremeLoader, MASOL RAT, and TrackBak**.
+- **2025-06 to 2025-08** Attacker performed **backdoor deployment, persistence, and collection activity** using tools such as **COOLCLIENT, EggStremeFuel, EggStremeLoader, MASOL RAT, and TrackBak**.
 </aside>
 
 <aside>
 ⌛
 
-- **2026-03-30** — Breach discovered/reported by **Palo Alto Networks Unit 42**, as published by **The Hacker News**.
+- **2026-03-30** Breach discovered/reported by **Palo Alto Networks Unit 42**, as published by **The Hacker News**.
 </aside>
 
 ## 3. MITRE ATT&CK Mapping
