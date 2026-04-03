@@ -57,7 +57,7 @@ Attackers achieved **persistent access to systems**, enabling ongoing surveillan
 <aside>
 💡
 
-- **Log source:** Endpoint process logs — unusual DLL loads from removable media or temp paths
+- **Log source:** Endpoint process logs unusual DLL loads from removable media or temp paths
 </aside>
 
 <aside>
